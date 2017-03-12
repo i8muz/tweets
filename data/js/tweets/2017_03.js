@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 09:17:16 +0000 2017",
+		"id": 840854192801501200,
+		"id_str": "840854192801501185",
+		"text": "Dvořák - Silhouettes in C-sharp minor, Op.8, B.98 by Radoslav Kvapil https://t.co/wZFQa8hWa4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wZFQa8hWa4",
+					"expanded_url": "https://youtu.be/KYkcmG-OA5A",
+					"display_url": "youtu.be/KYkcmG-OA5A",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 봇의 음악은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 141,
+			"listed_count": 13,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cs"
+	},
+	{
+		"created_at": "Sun Mar 12 00:27:10 +0000 2017",
+		"id": 840720788688785400,
+		"id_str": "840720788688785408",
+		"text": "Tchaikovsky - Symphony No.6 \"Pathétique\" in B minor, Op.74, TH.30 by RIAS-Symphonie-Orchester and Ferenc Fricsay https://t.co/B2mgem73qL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B2mgem73qL",
+					"expanded_url": "https://youtu.be/kpwJ090ANXE",
+					"display_url": "youtu.be/kpwJ090ANXE",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 840717837576548400,
+		"in_reply_to_status_id_str": "840717837576548352",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 봇의 음악은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 141,
+			"listed_count": 13,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Sun Mar 12 00:15:26 +0000 2017",
+		"id": 840717837576548400,
+		"id_str": "840717837576548352",
+		"text": "Tchaikovsky - Symphony No.6 \"Pathétique\" in B minor, Op.74, TH.30 by Berliner Philharmoniker and Ferenc Fricsay https://t.co/UTD9kP1gFB 1953",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UTD9kP1gFB",
+					"expanded_url": "https://youtu.be/pkwVQ5JWlN8",
+					"display_url": "youtu.be/pkwVQ5JWlN8",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 794629815055761400,
+		"in_reply_to_status_id_str": "794629815055761408",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 봇의 음악은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 141,
+			"listed_count": 13,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cy"
+	},
+	{
+		"created_at": "Sat Mar 11 23:43:14 +0000 2017",
+		"id": 840709734000808000,
+		"id_str": "840709734000807937",
+		"text": "Barber - Adagio for Strings in B-flat minor, Op.11 by Detroit Symphony Orchestra and Leonard Slatkin https://t.co/y3eZFR4TLw 재업",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y3eZFR4TLw",
+					"expanded_url": "https://youtu.be/N3MHeNt6Yjs",
+					"display_url": "youtu.be/N3MHeNt6Yjs",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 봇의 음악은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 141,
+			"listed_count": 13,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 11 16:30:01 +0000 2017",
+		"id": 840600709473038300,
+		"id_str": "840600709473038336",
+		"text": "Ravel - Introduction et Allegro in G-flat major, M.46 by Academy of St Martin in the Fields Chamber Ensemble https://t.co/oAqzFh0t0U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oAqzFh0t0U",
+					"expanded_url": "https://youtu.be/bBm1w8J63mg",
+					"display_url": "youtu.be/bBm1w8J63mg",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 봇의 음악은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 141,
+			"listed_count": 13,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 11 11:02:13 +0000 2017",
 		"id": 840518216426250200,
 		"id_str": "840518216426250241",
