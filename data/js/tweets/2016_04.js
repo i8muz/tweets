@@ -141,33 +141,6 @@ Grailbird.data.tweets_2016_04 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 65, 88 ],
-      "url" : "https:\/\/t.co\/xQ1cMOfD7m",
-      "expanded_url" : "https:\/\/youtu.be\/c-t91r0Wing",
-      "display_url" : "youtu.be\/c-t91r0Wing"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "724274222789324801",
-  "text" : "Bach - Toccata and Fugue in D minor, BWV 565 by Cyprien Katsaris https:\/\/t.co\/xQ1cMOfD7m",
-  "id" : 724274222789324801,
-  "created_at" : "2016-04-24 16:30:05 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 93, 116 ],
       "url" : "https:\/\/t.co\/dTqBDFnTsM",
       "expanded_url" : "https:\/\/youtu.be\/MknyZcaYE3s",
