@@ -227,33 +227,6 @@ Grailbird.data.tweets_2016_03 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 84, 107 ],
-      "url" : "https:\/\/t.co\/0EvRyejtmh",
-      "expanded_url" : "https:\/\/youtu.be\/HN6BDcRZuA8",
-      "display_url" : "youtu.be\/HN6BDcRZuA8"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "711092367416107009",
-  "text" : "Shostakovich - String Quartet No.5 in B-flat major, Op.92 by Emerson String Quartet https:\/\/t.co\/0EvRyejtmh",
-  "id" : 711092367416107009,
-  "created_at" : "2016-03-19 07:30:06 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 57, 80 ],
       "url" : "https:\/\/t.co\/kNWczxk6dh",
       "expanded_url" : "https:\/\/youtu.be\/HldS8dFoSOk",

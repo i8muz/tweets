@@ -583,38 +583,6 @@ Grailbird.data.tweets_2016_08 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 110, 133 ],
-      "url" : "https:\/\/t.co\/BCS1XtAtiw",
-      "expanded_url" : "https:\/\/youtu.be\/JCMkFY3VEmA",
-      "display_url" : "youtu.be\/JCMkFY3VEmA"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "636529584524038145",
-  "geo" : { },
-  "id_str" : "763774492430610432",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Bruckner - Symphony No.4 in E-flat major \"Romantic\", WAB 104 by Wiener Philharmoniker and Hans Knappertsbusch https:\/\/t.co\/BCS1XtAtiw",
-  "id" : 763774492430610432,
-  "in_reply_to_status_id" : 636529584524038145,
-  "created_at" : "2016-08-11 16:30:03 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 62, 85 ],
       "url" : "https:\/\/t.co\/fGVc4V2kyg",
       "expanded_url" : "https:\/\/youtu.be\/S4xulo6YbqA",

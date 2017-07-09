@@ -262,33 +262,6 @@ Grailbird.data.tweets_2016_01 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/MYEQPPu3st",
-      "expanded_url" : "https:\/\/youtu.be\/CIzN6rdlnbw",
-      "display_url" : "youtu.be\/CIzN6rdlnbw"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "691598961874841600",
-  "text" : "Lutos\u0142awski - Piano Concerto by Krystian Zimerman, BBC Symphony Orchestra, and Witold Lutos\u0142awski https:\/\/t.co\/MYEQPPu3st",
-  "id" : 691598961874841600,
-  "created_at" : "2016-01-25 12:30:16 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 50, 73 ],
       "url" : "https:\/\/t.co\/mVXrnXtls3",
       "expanded_url" : "https:\/\/youtu.be\/Fr5e2c9AJvA",
@@ -787,33 +760,6 @@ Grailbird.data.tweets_2016_01 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 93, 116 ],
-      "url" : "https:\/\/t.co\/mdwNBMtJxg",
-      "expanded_url" : "https:\/\/youtu.be\/E59-6iXpnFc",
-      "display_url" : "youtu.be\/E59-6iXpnFc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "685038202541875200",
-  "text" : "Rautavaara - Symphony No.8 \"The Journey\" by Sveriges Radios Symfoniorkester and Mikko Franck https:\/\/t.co\/mdwNBMtJxg",
-  "id" : 685038202541875200,
-  "created_at" : "2016-01-07 10:00:09 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 78, 101 ],
       "url" : "https:\/\/t.co\/mbKvOCNGj4",
       "expanded_url" : "https:\/\/youtu.be\/sJBv3sOiZjA",
@@ -906,7 +852,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "guardian",
       "protected" : false,
       "id_str" : "87818409",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774191274391965696\/Tulf7lwN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877153924637175809\/deHwf3Qu_normal.jpg",
       "id" : 87818409,
       "verified" : true
     }

@@ -200,33 +200,6 @@ Grailbird.data.tweets_2016_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 64, 87 ],
-      "url" : "https:\/\/t.co\/Sk6syBCfZE",
-      "expanded_url" : "https:\/\/youtu.be\/soQCYfFntxM",
-      "display_url" : "youtu.be\/soQCYfFntxM"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "801846107043041281",
-  "text" : "Schubert - Piano Sonata No.3 in E major, D.459 by Andr\u00E1s Schiff https:\/\/t.co\/Sk6syBCfZE",
-  "id" : 801846107043041281,
-  "created_at" : "2016-11-24 17:53:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 96, 119 ],
       "url" : "https:\/\/t.co\/6PGYvjbSUS",
       "expanded_url" : "https:\/\/youtu.be\/hvIPcRwIW04",
@@ -723,33 +696,6 @@ Grailbird.data.tweets_2016_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 86, 109 ],
-      "url" : "https:\/\/t.co\/1OAOcd3gqa",
-      "expanded_url" : "https:\/\/youtu.be\/ALVJnr3OTJY",
-      "display_url" : "youtu.be\/ALVJnr3OTJY"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "798314062010458112",
-  "text" : "Smetana - M\u00E1 vlast in E-flat major, JB 1:112 by \u010Cesk\u00E1 filharmonie and Ji\u0159\u00ED B\u011Blohl\u00E1vek https:\/\/t.co\/1OAOcd3gqa",
-  "id" : 798314062010458112,
-  "created_at" : "2016-11-14 23:57:58 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 67, 90 ],
       "url" : "https:\/\/t.co\/qbLLhcVkSy",
       "expanded_url" : "https:\/\/youtu.be\/KUMMxsy4a88",
@@ -1176,33 +1122,6 @@ Grailbird.data.tweets_2016_11 =
   "text" : "Glazunov - Elegie in D-flat major, Op.17 by Yuli Turovsky and Peter Pettinger https:\/\/t.co\/LuMM16ESqR",
   "id" : 795664629972094978,
   "created_at" : "2016-11-07 16:30:05 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 86, 109 ],
-      "url" : "https:\/\/t.co\/tPqa5fcvKR",
-      "expanded_url" : "https:\/\/youtu.be\/cSDkyUH1ot4",
-      "display_url" : "youtu.be\/cSDkyUH1ot4"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "794879446918434816",
-  "text" : "Respighi - Violin Sonata in B minor, P 110 by Renaud Capu\u00E7on and Francesco Piemontesi https:\/\/t.co\/tPqa5fcvKR",
-  "id" : 794879446918434816,
-  "created_at" : "2016-11-05 12:30:02 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",

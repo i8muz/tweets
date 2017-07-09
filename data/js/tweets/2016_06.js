@@ -6,33 +6,6 @@ Grailbird.data.tweets_2016_06 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 87, 110 ],
-      "url" : "https:\/\/t.co\/pMgiJiCVmi",
-      "expanded_url" : "https:\/\/youtu.be\/4kNtcbu6Veo",
-      "display_url" : "youtu.be\/4kNtcbu6Veo"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "748515715049619457",
-  "text" : "Sibelius - Symphony No.3 in C major, Op.52 by Lahti Symphony Orchestra and Osmo V\u00E4nsk\u00E4 https:\/\/t.co\/pMgiJiCVmi",
-  "id" : 748515715049619457,
-  "created_at" : "2016-06-30 13:57:07 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 90, 113 ],
       "url" : "https:\/\/t.co\/ZcqGnJHnmr",
       "expanded_url" : "https:\/\/youtu.be\/ZNYb21fZLPw",

@@ -485,38 +485,6 @@ Grailbird.data.tweets_2016_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/LhncoOmMTV",
-      "expanded_url" : "https:\/\/youtu.be\/W0Iu-1iE_eI",
-      "display_url" : "youtu.be\/W0Iu-1iE_eI"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "642705227141902336",
-  "geo" : { },
-  "id_str" : "812297220254932992",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Beethoven - Ver\u00E4nderungen \u00FCber einen Walzer von Diabelli in C major, Op.120 by Piotr Anderszewski https:\/\/t.co\/LhncoOmMTV",
-  "id" : 812297220254932992,
-  "in_reply_to_status_id" : 642705227141902336,
-  "created_at" : "2016-12-23 14:02:03 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 62, 85 ],
       "url" : "https:\/\/t.co\/Tg59s0YZwp",
       "expanded_url" : "https:\/\/youtu.be\/OgfeVaK0yeM",
@@ -609,87 +577,6 @@ Grailbird.data.tweets_2016_12 =
   "text" : "Mendelssohn - Lieder ohne Worte, Book 2, Op.30 by Frank van de Laar https:\/\/t.co\/i79dcjXmyj \uC624\uD0C0 \uC218\uC815",
   "id" : 812294749126160385,
   "created_at" : "2016-12-23 13:52:14 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "812292779250286594",
-  "geo" : { },
-  "id_str" : "812292885852790784",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Vienna Boys' Choir, Wiener Singverein, CSO, and Georg Solti",
-  "id" : 812292885852790784,
-  "in_reply_to_status_id" : 812292779250286594,
-  "created_at" : "2016-12-23 13:44:50 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "812292534357458944",
-  "geo" : { },
-  "id_str" : "812292779250286594",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Heather Harper, Lucia Popp, Arleen Auger, Yvonne Minton, Helen Watts, Ren\u00E9 Kollo, John Shirley-Quirk, Martti Talvela, (cont)",
-  "id" : 812292779250286594,
-  "in_reply_to_status_id" : 812292534357458944,
-  "created_at" : "2016-12-23 13:44:24 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 73, 96 ],
-      "url" : "https:\/\/t.co\/KWmEdpekRQ",
-      "expanded_url" : "https:\/\/youtu.be\/1qipcObZW5c",
-      "display_url" : "youtu.be\/1qipcObZW5c"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "812292534357458944",
-  "text" : "Mahler - Symphony No.8 in E-flat major \"Symphonie der Tausend\" by (cont) https:\/\/t.co\/KWmEdpekRQ",
-  "id" : 812292534357458944,
-  "created_at" : "2016-12-23 13:43:26 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -1597,33 +1484,6 @@ Grailbird.data.tweets_2016_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 44, 67 ],
-      "url" : "https:\/\/t.co\/jQJ1svABp0",
-      "expanded_url" : "https:\/\/youtu.be\/1n4gpo4r-FA",
-      "display_url" : "youtu.be\/1n4gpo4r-FA"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "807051078428606464",
-  "text" : "Dvo\u0159\u00E1k - Cypresses, B.152 by Prague Quartet https:\/\/t.co\/jQJ1svABp0",
-  "id" : 807051078428606464,
-  "created_at" : "2016-12-09 02:35:46 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 84, 107 ],
       "url" : "https:\/\/t.co\/1r2GVISn1L",
       "expanded_url" : "https:\/\/youtu.be\/7xS1Z9anxXo",
@@ -1764,33 +1624,6 @@ Grailbird.data.tweets_2016_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 106, 129 ],
-      "url" : "https:\/\/t.co\/NOeWlJomgj",
-      "expanded_url" : "https:\/\/youtu.be\/REOmca-JHbQ",
-      "display_url" : "youtu.be\/REOmca-JHbQ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "806209603125932032",
-  "text" : "Raff - Symphony No.11 in A minor \"The Winter\", Op.214 by Philharmonia Hungarica and Werner Andreas Albert https:\/\/t.co\/NOeWlJomgj",
-  "id" : 806209603125932032,
-  "created_at" : "2016-12-06 18:52:02 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 65, 88 ],
       "url" : "https:\/\/t.co\/FjjZUDlSdN",
       "expanded_url" : "https:\/\/youtu.be\/q9T9eETuwVE",
@@ -1802,60 +1635,6 @@ Grailbird.data.tweets_2016_12 =
   "text" : "Scarlatti - Sonata in D major, K.491, L.164 by Vladimir Horowitz https:\/\/t.co\/FjjZUDlSdN \uC7AC\uC5C5",
   "id" : 806173865768534018,
   "created_at" : "2016-12-06 16:30:02 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "806162166852161536",
-  "geo" : { },
-  "id_str" : "806162216709865473",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Joela Jones, Cynthia Millar, Cleveland Orchestra and Chorus, and Franz Welser-M\u00F6st",
-  "id" : 806162216709865473,
-  "in_reply_to_status_id" : 806162166852161536,
-  "created_at" : "2016-12-06 15:43:44 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/L8QhyzBzp7",
-      "expanded_url" : "https:\/\/youtu.be\/swPzeG-PXrA",
-      "display_url" : "youtu.be\/swPzeG-PXrA"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "806162166852161536",
-  "text" : "Messiaen - 3 petites liturgies de la pr\u00E9sence divine by (cont) https:\/\/t.co\/L8QhyzBzp7",
-  "id" : 806162166852161536,
-  "created_at" : "2016-12-06 15:43:33 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",

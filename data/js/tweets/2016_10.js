@@ -384,33 +384,6 @@ Grailbird.data.tweets_2016_10 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 68, 91 ],
-      "url" : "https:\/\/t.co\/C5HYlrseX3",
-      "expanded_url" : "https:\/\/youtu.be\/4rSGcsJw0DE?t=3s",
-      "display_url" : "youtu.be\/4rSGcsJw0DE?t=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "788416861515886592",
-  "text" : "Nielsen - Suite \"Den Luciferiske\", Op.45, FS 91 by Leif Ove Andsnes https:\/\/t.co\/C5HYlrseX3",
-  "id" : 788416861515886592,
-  "created_at" : "2016-10-18 16:30:02 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 62, 85 ],
       "url" : "https:\/\/t.co\/QSDRalH1mi",
       "expanded_url" : "https:\/\/youtu.be\/9P77QKTOkZY?t=1s",

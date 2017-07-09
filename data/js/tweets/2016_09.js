@@ -1223,7 +1223,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF31\uD83C\uDF31Hyeokjooni\uD83C\uDF31\uD83C\uDF31",
+      "name" : "ExpectoPatroMoon\uD83C\uDF1B",
       "screen_name" : "hyeokjooni",
       "indices" : [ 0, 11 ],
       "id_str" : "1534937539",
