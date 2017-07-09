@@ -1110,33 +1110,6 @@ Grailbird.data.tweets_2015_10 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 90, 113 ],
-      "url" : "https:\/\/t.co\/sYqe7WWalY",
-      "expanded_url" : "https:\/\/youtu.be\/aWgOyIkOm2E?t=44s",
-      "display_url" : "youtu.be\/aWgOyIkOm2E?t=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "655808832040374272",
-  "text" : "Ravel - Le tombeau de Couperin in E minor, M.68 Berliner Philharmoniker and Pierre Boulez https:\/\/t.co\/sYqe7WWalY",
-  "id" : 655808832040374272,
-  "created_at" : "2015-10-18 18:13:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 72, 95 ],
       "url" : "https:\/\/t.co\/htuE9jJHXm",
       "expanded_url" : "https:\/\/youtu.be\/3m5ohobcKb8",
@@ -4484,33 +4457,6 @@ Grailbird.data.tweets_2015_10 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 59, 82 ],
-      "url" : "https:\/\/t.co\/dDnsrkIOWg",
-      "expanded_url" : "https:\/\/youtu.be\/Z3z0uzvg010",
-      "display_url" : "youtu.be\/Z3z0uzvg010"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "650959126877474816",
-  "text" : "Tartini - Violin Sonata in G minor, B.g5 by David Oistrakh https:\/\/t.co\/dDnsrkIOWg \uC545\uB9C8\uC758 \uD2B8\uB9B4",
-  "id" : 650959126877474816,
-  "created_at" : "2015-10-05 09:02:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 112, 135 ],
       "url" : "https:\/\/t.co\/dWvGObQ5tw",
       "expanded_url" : "https:\/\/youtu.be\/aNPPo4m0tHI",
@@ -4786,33 +4732,6 @@ Grailbird.data.tweets_2015_10 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 50, 73 ],
-      "url" : "https:\/\/t.co\/SNcY7PuhN3",
-      "expanded_url" : "https:\/\/youtu.be\/ZtQEuhwcugc?list=PLHbJf2zCdzRf4laeDrMwEU-7JmrHRz9zb",
-      "display_url" : "youtu.be\/ZtQEuhwcugc?li\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "650412271647064064",
-  "text" : "Brahms - 8 Klavierst\u00FCcke, Op.76 by Wilhelm Kempff https:\/\/t.co\/SNcY7PuhN3",
-  "id" : 650412271647064064,
-  "created_at" : "2015-10-03 20:49:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 59, 82 ],
       "url" : "https:\/\/t.co\/VYonSlFPaP",
       "expanded_url" : "https:\/\/youtu.be\/V6pUOi8VjQc",
@@ -5054,117 +4973,6 @@ Grailbird.data.tweets_2015_10 =
   "created_at" : "2015-10-03 05:31:01 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sunwook Kim",
-      "screen_name" : "sunwookk",
-      "indices" : [ 3, 12 ],
-      "id_str" : "1629901008",
-      "id" : 1629901008
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/sunwookk\/status\/650001911320592385\/photo\/1",
-      "indices" : [ 24, 46 ],
-      "url" : "http:\/\/t.co\/wo2Xd9ygsC",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CQVFSSAWsAAvIUV.jpg",
-      "id_str" : "650001901598191616",
-      "id" : 650001901598191616,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CQVFSSAWsAAvIUV.jpg",
-      "sizes" : [ {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/wo2Xd9ygsC"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "650146470092378112",
-  "text" : "RT @sunwookk: Finally!! http:\/\/t.co\/wo2Xd9ygsC",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/sunwookk\/status\/650001911320592385\/photo\/1",
-        "indices" : [ 10, 32 ],
-        "url" : "http:\/\/t.co\/wo2Xd9ygsC",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CQVFSSAWsAAvIUV.jpg",
-        "id_str" : "650001901598191616",
-        "id" : 650001901598191616,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CQVFSSAWsAAvIUV.jpg",
-        "sizes" : [ {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 453,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/wo2Xd9ygsC"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "650001911320592385",
-    "text" : "Finally!! http:\/\/t.co\/wo2Xd9ygsC",
-    "id" : 650001911320592385,
-    "created_at" : "2015-10-02 17:38:26 +0000",
-    "user" : {
-      "name" : "Sunwook Kim",
-      "screen_name" : "sunwookk",
-      "protected" : false,
-      "id_str" : "1629901008",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816973214811230208\/xF5h-odl_normal.jpg",
-      "id" : 1629901008,
-      "verified" : false
-    }
-  },
-  "id" : 650146470092378112,
-  "created_at" : "2015-10-03 03:12:52 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
