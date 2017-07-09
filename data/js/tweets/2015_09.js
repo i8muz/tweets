@@ -495,33 +495,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 75, 97 ],
-      "url" : "http:\/\/t.co\/zY329QckoF",
-      "expanded_url" : "http:\/\/youtu.be\/XExCU6MdjEc",
-      "display_url" : "youtu.be\/XExCU6MdjEc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "648617363294674944",
-  "text" : "Chopin - Impromptu No.2 in F-sharp maor, Op.36, B.129 by Arthur Rubinstein http:\/\/t.co\/zY329QckoF",
-  "id" : 648617363294674944,
-  "created_at" : "2015-09-28 21:56:44 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 47, 70 ],
       "url" : "https:\/\/t.co\/eaKpYD51NP",
       "expanded_url" : "https:\/\/youtu.be\/UAu7N4eYN9o",
@@ -1237,70 +1210,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 91, 114 ],
-      "url" : "https:\/\/t.co\/DaG4ys6pby",
-      "expanded_url" : "https:\/\/youtu.be\/iJkEpQ7dTQA",
-      "display_url" : "youtu.be\/iJkEpQ7dTQA"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "645492564842274817",
-  "geo" : { },
-  "id_str" : "647672975387324418",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Tchaikovsky - \"M\u00E9ditation\" in D major, from 18 Pieces, Op.72 No.5, TH.151 by Denis Matsuev https:\/\/t.co\/DaG4ys6pby",
-  "id" : 647672975387324418,
-  "in_reply_to_status_id" : 645492564842274817,
-  "created_at" : "2015-09-26 07:24:05 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 95, 118 ],
-      "url" : "https:\/\/t.co\/iSPQNBZ35f",
-      "expanded_url" : "https:\/\/youtu.be\/t29vc6PBey0",
-      "display_url" : "youtu.be\/t29vc6PBey0"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "635809385277583360",
-  "geo" : { },
-  "id_str" : "647662655755325440",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Chopin - Cello Sonata Mov.1 in G minor, Op.65, B.160 by Jacqueline Du Pr\u00E9 and Daniel Barenboim https:\/\/t.co\/iSPQNBZ35f",
-  "id" : 647662655755325440,
-  "in_reply_to_status_id" : 635809385277583360,
-  "created_at" : "2015-09-26 06:43:04 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 54, 77 ],
       "url" : "https:\/\/t.co\/jquUy0FPGn",
       "expanded_url" : "https:\/\/youtu.be\/gzxA0L8Mzsg",
@@ -1846,38 +1755,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 70, 93 ],
-      "url" : "https:\/\/t.co\/npQtvHNgp1",
-      "expanded_url" : "https:\/\/youtu.be\/9i6pjvrkUZU",
-      "display_url" : "youtu.be\/9i6pjvrkUZU"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "635796557971914752",
-  "geo" : { },
-  "id_str" : "646923285360316417",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Bach - Cello Suite No.5 in C minor, BWV 1011 by Mstislav Rostropovich https:\/\/t.co\/npQtvHNgp1",
-  "id" : 646923285360316417,
-  "in_reply_to_status_id" : 635796557971914752,
-  "created_at" : "2015-09-24 05:45:05 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 86, 109 ],
       "url" : "https:\/\/t.co\/JKBMVRQnu2",
       "expanded_url" : "https:\/\/youtu.be\/qdmz1PjC1oM",
@@ -1889,33 +1766,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Saint-Sa\u00EBns - Violin Sonata No.1 in D minor, Op.75 by Jascha Heifetz and Brooks Smith https:\/\/t.co\/JKBMVRQnu2",
   "id" : 646911441321111552,
   "created_at" : "2015-09-24 04:58:01 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 54, 77 ],
-      "url" : "https:\/\/t.co\/kl5xKwjnGO",
-      "expanded_url" : "https:\/\/youtu.be\/7g4in3iTcMM",
-      "display_url" : "youtu.be\/7g4in3iTcMM"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "646817848044589056",
-  "text" : "Grieg - Lyric Pieces 1, Op.12 by Geir Henning Braaten https:\/\/t.co\/kl5xKwjnGO",
-  "id" : 646817848044589056,
-  "created_at" : "2015-09-23 22:46:06 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -2120,33 +1970,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Elgar - Cello Concerto in E minor, Op.85 by Jacqueline du Pr\u00E9, LSO, and John Barbirolli https:\/\/t.co\/YUSTn3WiRC",
   "id" : 646645716010430464,
   "created_at" : "2015-09-23 11:22:07 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 73, 96 ],
-      "url" : "https:\/\/t.co\/TNkE9eqtA1",
-      "expanded_url" : "https:\/\/youtu.be\/l3AynCEuCqc",
-      "display_url" : "youtu.be\/l3AynCEuCqc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "646572221247262720",
-  "text" : "Chopin - Impromptu No.1 in A-flat major, Op.29, B.110 by Daniil Trifonov https:\/\/t.co\/TNkE9eqtA1",
-  "id" : 646572221247262720,
-  "created_at" : "2015-09-23 06:30:04 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -3089,33 +2912,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 102, 125 ],
-      "url" : "https:\/\/t.co\/k7qP0muITh",
-      "expanded_url" : "https:\/\/youtu.be\/CnoI-sYtCOU?t=29s",
-      "display_url" : "youtu.be\/CnoI-sYtCOU?t=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "645611636129034240",
-  "text" : "Schubert - Symphony No.4 in C minor \"Tragic\", D.417 by Wiener Philharmoniker and Nikolaus Harnoncourt https:\/\/t.co\/k7qP0muITh Wien, 1984",
-  "id" : 645611636129034240,
-  "created_at" : "2015-09-20 14:53:03 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 50, 73 ],
       "url" : "https:\/\/t.co\/dxr5bF6aA8",
       "expanded_url" : "https:\/\/youtu.be\/UHyogQTs4Zo",
@@ -3552,33 +3348,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Scriabin - \u00C9tude in F-sharp major, Op.42 No.4 by Vladimir Horowitz https:\/\/t.co\/GIbnW7kqn4",
   "id" : 645223342245449728,
   "created_at" : "2015-09-19 13:10:07 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 90 ],
-      "url" : "https:\/\/t.co\/YCB4Mq04VC",
-      "expanded_url" : "https:\/\/youtu.be\/CHLjHvsAXtc",
-      "display_url" : "youtu.be\/CHLjHvsAXtc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "645207740940349444",
-  "text" : "Mendelssohn - Fantasie in F-sharp minor, Op.28 by Shura Cherkassky https:\/\/t.co\/YCB4Mq04VC",
-  "id" : 645207740940349444,
-  "created_at" : "2015-09-19 12:08:07 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -4781,38 +4550,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 53, 76 ],
-      "url" : "https:\/\/t.co\/cY0LFhpJxw",
-      "expanded_url" : "https:\/\/youtu.be\/XeBZT5_iEeA",
-      "display_url" : "youtu.be\/XeBZT5_iEeA"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "644107027925630976",
-  "geo" : { },
-  "id_str" : "644107358105419776",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Debussy - L'Isle joyeuse, L.106 by Vladimir Horowitz https:\/\/t.co\/cY0LFhpJxw \uAE30\uC068\uC758 \uC12C\uC785\uB2C8\uB2E4. \uC800\uB294 \uB85C\uC81C (Pascal Rog\u00E9) \uBC84\uC804\uC774 \uAC00\uC7A5 \uC88B\uC9C0\uB9CC \uC5C6\uC73C\uB2C8 (...)",
-  "id" : 644107358105419776,
-  "in_reply_to_status_id" : 644107027925630976,
-  "created_at" : "2015-09-16 11:15:35 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 54, 77 ],
       "url" : "https:\/\/t.co\/hrdse3o163",
       "expanded_url" : "https:\/\/youtu.be\/wG2YQSXEJ4I",
@@ -4953,33 +4690,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 71, 94 ],
-      "url" : "https:\/\/t.co\/OdCy9kdfzk",
-      "expanded_url" : "https:\/\/youtu.be\/TUI90rbdUBU",
-      "display_url" : "youtu.be\/TUI90rbdUBU"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "643778571513696256",
-  "text" : "Chopin - Piano Sonata No.3 in B minor, Op.58, B.155 by Daniil Trifonov https:\/\/t.co\/OdCy9kdfzk",
-  "id" : 643778571513696256,
-  "created_at" : "2015-09-15 13:29:06 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 64, 87 ],
       "url" : "https:\/\/t.co\/IjPWvDGYnH",
       "expanded_url" : "https:\/\/youtu.be\/pFF_qS65LAM",
@@ -5045,38 +4755,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Sarasate - Carmen Fantasy, Op.25 by Itzhak Perlman, NYPO, and Zubin Mehta https:\/\/t.co\/gw3oTdnuDl",
   "id" : 643703574409539584,
   "created_at" : "2015-09-15 08:31:06 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 94, 117 ],
-      "url" : "https:\/\/t.co\/FPcGMjMyUz",
-      "expanded_url" : "https:\/\/youtu.be\/PsRr1syRXVM",
-      "display_url" : "youtu.be\/PsRr1syRXVM"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "643643723574673408",
-  "geo" : { },
-  "id_str" : "643649024629706752",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Beethoven - Piano Concerto No.4, Op.58 by Ivan Moravec, Radio Kamer Orkest, and Frans Br\u00FCggen https:\/\/t.co\/FPcGMjMyUz RKO\uB294 RKF\uB85C \uD761\uC218\uB410\uC9C0\uB9CC \uC774\uB3C4 \uC0AC\uB77C\uC9D0",
-  "id" : 643649024629706752,
-  "in_reply_to_status_id" : 643643723574673408,
-  "created_at" : "2015-09-15 04:54:20 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -5631,33 +5309,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 96, 119 ],
-      "url" : "https:\/\/t.co\/L0aB7ktHJ7",
-      "expanded_url" : "https:\/\/youtu.be\/LCKO7U8a1o0",
-      "display_url" : "youtu.be\/LCKO7U8a1o0"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "642339584727101440",
-  "text" : "Vivaldi - Concerto for Strings in G minor, RV 157 by Il Giardino Armonico and Giovanni Antonini https:\/\/t.co\/L0aB7ktHJ7",
-  "id" : 642339584727101440,
-  "created_at" : "2015-09-11 14:11:05 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 87, 110 ],
       "url" : "https:\/\/t.co\/3UpMCA0ZHy",
       "expanded_url" : "https:\/\/youtu.be\/eav9lsYgsTk",
@@ -5847,33 +5498,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 50, 73 ],
-      "url" : "https:\/\/t.co\/yRG9XUt4dp",
-      "expanded_url" : "https:\/\/youtu.be\/Ss1URTJYlfQ?t=23s",
-      "display_url" : "youtu.be\/Ss1URTJYlfQ?t=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "641940202928214016",
-  "text" : "Massenet - \"M\u00E9ditation\" from Tha\u00EFs by Sarah Chang https:\/\/t.co\/yRG9XUt4dp \uC624\uCF00\uB294 \uC5B4\uB518\uC9C0 \uBAA8\uB974\uACA0\uB2E4.",
-  "id" : 641940202928214016,
-  "created_at" : "2015-09-10 11:44:05 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 65, 88 ],
       "url" : "https:\/\/t.co\/8klssl6zMI",
       "expanded_url" : "https:\/\/youtu.be\/roIwsWQLcXc",
@@ -5885,33 +5509,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Haydn - Piano Sonata No.33 in C minor, Hob.XVI:20 by Emil Gilels https:\/\/t.co\/8klssl6zMI",
   "id" : 641875768935477248,
   "created_at" : "2015-09-10 07:28:03 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 99, 122 ],
-      "url" : "https:\/\/t.co\/3ZrWUtf7EP",
-      "expanded_url" : "https:\/\/youtu.be\/CMU-gz876Sk",
-      "display_url" : "youtu.be\/CMU-gz876Sk"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "641796511517421568",
-  "text" : "Bruch - Scottish Fantasy in E-flat major, Op.46 by Jascha Heifetz and Orchestre National de France https:\/\/t.co\/3ZrWUtf7EP",
-  "id" : 641796511517421568,
-  "created_at" : "2015-09-10 02:13:07 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -6063,38 +5660,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 72, 95 ],
-      "url" : "https:\/\/t.co\/SyoiB8iekZ",
-      "expanded_url" : "https:\/\/youtu.be\/vpUJ4-qqV-I?t=19s",
-      "display_url" : "youtu.be\/vpUJ4-qqV-I?t=\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "636174743117279232",
-  "geo" : { },
-  "id_str" : "641523961587568640",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Bizet - Overture, from Carmen, WD 31 by The Royal Opera and Zubin Mehta https:\/\/t.co\/SyoiB8iekZ",
-  "id" : 641523961587568640,
-  "in_reply_to_status_id" : 636174743117279232,
-  "created_at" : "2015-09-09 08:10:06 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 60, 83 ],
       "url" : "https:\/\/t.co\/Qe062wpa8z",
       "expanded_url" : "https:\/\/youtu.be\/x1zC5WCDl7Q",
@@ -6202,33 +5767,6 @@ Grailbird.data.tweets_2015_09 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "641064679096254464",
-  "geo" : { },
-  "id_str" : "641134344459825152",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Jascha Heifetz, New Symphony Orchestra of London, and Malcolm Sargent",
-  "id" : 641134344459825152,
-  "in_reply_to_status_id" : 641064679096254464,
-  "created_at" : "2015-09-08 06:21:54 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 68, 91 ],
       "url" : "https:\/\/t.co\/H1zb9IKlIK",
@@ -6241,33 +5779,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Beethoven - Piano Sonata No.28 in A major, Op.101 by Alfred Brendel https:\/\/t.co\/H1zb9IKlIK",
   "id" : 641095393053310976,
   "created_at" : "2015-09-08 03:47:07 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 62, 85 ],
-      "url" : "https:\/\/t.co\/bPBavCUt8F",
-      "expanded_url" : "https:\/\/youtu.be\/yXgjwq7kIPU?list=PLHbJf2zCdzRc3HoAbEZ8BkvjJt7KHWSii",
-      "display_url" : "youtu.be\/yXgjwq7kIPU?li\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "641064679096254464",
-  "text" : "Vieuxtemps - Violin Concerto No.5 in A minor, Op.37 by (cont) https:\/\/t.co\/bPBavCUt8F",
-  "id" : 641064679096254464,
-  "created_at" : "2015-09-08 01:45:04 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -6797,65 +6308,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 95, 118 ],
-      "url" : "https:\/\/t.co\/3Uj75DHCvI",
-      "expanded_url" : "https:\/\/youtu.be\/ZpXfndZcbYI",
-      "display_url" : "youtu.be\/ZpXfndZcbYI"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "640341776717344768",
-  "geo" : { },
-  "id_str" : "640491152219619328",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Ravel - \"Introduction et Danse religieuse\", from Daphnis et Chlo\u00E9, M.57 by LSO and Kent Nagano https:\/\/t.co\/3Uj75DHCvI",
-  "id" : 640491152219619328,
-  "in_reply_to_status_id" : 640341776717344768,
-  "created_at" : "2015-09-06 11:46:05 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/utu9U1XTmG",
-      "expanded_url" : "https:\/\/youtu.be\/wVhHUezPfG4",
-      "display_url" : "youtu.be\/wVhHUezPfG4"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "640341776717344768",
-  "text" : "Ravel - \"Introduction et Danse religieuse\", from Daphnis et Chlo\u00E9, M.57 by OSM and Charles Dutoit https:\/\/t.co\/utu9U1XTmG",
-  "id" : 640341776717344768,
-  "created_at" : "2015-09-06 01:52:31 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 73, 96 ],
       "url" : "https:\/\/t.co\/t9c6HKN8M3",
       "expanded_url" : "https:\/\/youtu.be\/hAi7dnvNCw0",
@@ -7049,33 +6501,6 @@ Grailbird.data.tweets_2015_09 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "639616898750025728",
-  "geo" : { },
-  "id_str" : "639617669327523841",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Mikhail Terian, Sviatoslav Knushevitzky, Joseph Gertovich, Vladimir Sorokon, Joseph Stidel, and Jacov Shapiro",
-  "id" : 639617669327523841,
-  "in_reply_to_status_id" : 639616898750025728,
-  "created_at" : "2015-09-04 01:55:10 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 62, 85 ],
       "url" : "https:\/\/t.co\/drYRcVSt9A",
@@ -7120,33 +6545,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Nielsen - Symphony No.3 \"Sinfonia espansiva\", Op.27, FS 60 by Det Kongelige Kapel and Leonard Bernstein https:\/\/t.co\/aK0ZsNzRuc",
   "id" : 639617134809579522,
   "created_at" : "2015-09-04 01:53:03 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 93, 116 ],
-      "url" : "https:\/\/t.co\/nWI00ZeRHM",
-      "expanded_url" : "https:\/\/youtu.be\/Wvo3U4fePZk",
-      "display_url" : "youtu.be\/Wvo3U4fePZk"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "639616898750025728",
-  "text" : "Schubert - Octet in F major, Op.posth.166, D.803 by David Oistrakh, Peter Bondarenko, (cont) https:\/\/t.co\/nWI00ZeRHM",
-  "id" : 639616898750025728,
-  "created_at" : "2015-09-04 01:52:06 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -7366,65 +6764,6 @@ Grailbird.data.tweets_2015_09 =
   "id" : 639613343372734465,
   "in_reply_to_status_id" : 639611855103590400,
   "created_at" : "2015-09-04 01:37:59 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "639613267229315072",
-  "geo" : { },
-  "id_str" : "639613297210228736",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Hilary Hahn, Radio-Sinfonieorchester Stuttgart des SWR, and Gustavo Dudamel",
-  "id" : 639613297210228736,
-  "in_reply_to_status_id" : 639613267229315072,
-  "created_at" : "2015-09-04 01:37:48 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 72, 95 ],
-      "url" : "https:\/\/t.co\/Sx7aNtmwlW",
-      "expanded_url" : "https:\/\/youtu.be\/hEbPIGHrsEA",
-      "display_url" : "youtu.be\/hEbPIGHrsEA"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "639611609917190147",
-  "geo" : { },
-  "id_str" : "639613267229315072",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Mozart - Violin Concerto No.3 in G major, \"Strassburg\", K.216 by (cont) https:\/\/t.co\/Sx7aNtmwlW",
-  "id" : 639613267229315072,
-  "in_reply_to_status_id" : 639611609917190147,
-  "created_at" : "2015-09-04 01:37:41 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
   "user" : {
@@ -7923,38 +7262,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Gershwin - Concerto in F by Marc-Andr\u00E9 Hamelin, Netherlands Radio Philharmonic Orchestra, and Leonard Slatkin https:\/\/t.co\/0DNoHn2Soh",
   "id" : 639588312835997696,
   "created_at" : "2015-09-03 23:58:31 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 88, 111 ],
-      "url" : "https:\/\/t.co\/NjakP0FJn1",
-      "expanded_url" : "https:\/\/youtu.be\/VsJdJrflu08",
-      "display_url" : "youtu.be\/VsJdJrflu08"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "639587700295598080",
-  "geo" : { },
-  "id_str" : "639587921444515842",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Chopin - Variations on \"L\u00E0 ci darem la mano\" in B-flat major, Op.2, B.22 by Emil Gilels https:\/\/t.co\/NjakP0FJn1 Budapest, 1963",
-  "id" : 639587921444515842,
-  "in_reply_to_status_id" : 639587700295598080,
-  "created_at" : "2015-09-03 23:56:58 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
