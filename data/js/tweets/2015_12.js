@@ -470,33 +470,6 @@ Grailbird.data.tweets_2015_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 116, 139 ],
-      "url" : "https:\/\/t.co\/3tvz4ENZ4w",
-      "expanded_url" : "https:\/\/youtu.be\/RHOv7-HEeUU",
-      "display_url" : "youtu.be\/RHOv7-HEeUU"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "680981690592792576",
-  "text" : "Schubert - Piano Trio No.1 in B-flat major, Op.99, D.898 by Lev Oborin, David Oistrakh, and Sviatoslav Knushevitsky https:\/\/t.co\/3tvz4ENZ4w",
-  "id" : 680981690592792576,
-  "created_at" : "2015-12-27 05:21:01 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 114, 137 ],
       "url" : "https:\/\/t.co\/iDsEiyR0QZ",
       "expanded_url" : "https:\/\/youtu.be\/61S3yv_Fwg8",
@@ -599,33 +572,6 @@ Grailbird.data.tweets_2015_12 =
   "text" : "Poldini - La Poup\u00E9e valsante, from Marionettes No.2 by Fritz Kreisler and Franz Rupp https:\/\/t.co\/PDggDrBEgQ",
   "id" : 680771571548426241,
   "created_at" : "2015-12-26 15:26:05 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 101, 124 ],
-      "url" : "https:\/\/t.co\/h2Gp684VsB",
-      "expanded_url" : "https:\/\/youtu.be\/CcflwUYYoXk?t=4s",
-      "display_url" : "youtu.be\/CcflwUYYoXk?t=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "680737586629885952",
-  "text" : "Barber - Adagio for Strings in B-flat minor, Op.11 by Detroit Symphony Orchestra and Leonard Slatkin https:\/\/t.co\/h2Gp684VsB",
-  "id" : 680737586629885952,
-  "created_at" : "2015-12-26 13:11:02 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -1481,38 +1427,6 @@ Grailbird.data.tweets_2015_12 =
   "text" : "Bach - French Suite No.5 in G major, BWV 816 by Andr\u00E1s Schiff https:\/\/t.co\/Uqh5wLLTOf",
   "id" : 680301468675522561,
   "created_at" : "2015-12-25 08:18:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 58, 81 ],
-      "url" : "https:\/\/t.co\/a2w8rPVwgF",
-      "expanded_url" : "https:\/\/youtu.be\/Le3bJNpIJNI?list=PLHbJf2zCdzRccjXARjbMZpe9I-luKRKpF",
-      "display_url" : "youtu.be\/Le3bJNpIJNI?li\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "642223483376803840",
-  "geo" : { },
-  "id_str" : "680290134407786496",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Brahms - 7 Fantasien in D minor, Op.116 by Wilhelm Kempff https:\/\/t.co\/a2w8rPVwgF",
-  "id" : 680290134407786496,
-  "in_reply_to_status_id" : 642223483376803840,
-  "created_at" : "2015-12-25 07:33:01 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -4131,70 +4045,6 @@ Grailbird.data.tweets_2015_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 60, 83 ],
-      "url" : "https:\/\/t.co\/cQBbI0NKxv",
-      "expanded_url" : "https:\/\/youtu.be\/c_4skdkbSAg",
-      "display_url" : "youtu.be\/c_4skdkbSAg"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "636188751161483264",
-  "geo" : { },
-  "id_str" : "679431637684236288",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Mozart - Piano Sonata No.10 in C major, K.330 by Lili Kraus https:\/\/t.co\/cQBbI0NKxv 1968",
-  "id" : 679431637684236288,
-  "in_reply_to_status_id" : 636188751161483264,
-  "created_at" : "2015-12-22 22:41:40 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/g8Mzn0Qone",
-      "expanded_url" : "https:\/\/youtu.be\/0E8ko1Zjm90",
-      "display_url" : "youtu.be\/0E8ko1Zjm90"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "636168163218948096",
-  "geo" : { },
-  "id_str" : "679428736429654016",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Chopin - \u00C9tudes in E minor, Op.25 No.5, B.104 by Evgeny Kissin https:\/\/t.co\/g8Mzn0Qone",
-  "id" : 679428736429654016,
-  "in_reply_to_status_id" : 636168163218948096,
-  "created_at" : "2015-12-22 22:30:08 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 111, 134 ],
       "url" : "https:\/\/t.co\/xK6COOaJHh",
       "expanded_url" : "https:\/\/youtu.be\/oyKnynSF75Q?list=PL81A760C8CA02EC28",
@@ -4273,38 +4123,6 @@ Grailbird.data.tweets_2015_12 =
   "id" : 679417387314053120,
   "in_reply_to_status_id" : 635916921469186048,
   "created_at" : "2015-12-22 21:45:02 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 90 ],
-      "url" : "https:\/\/t.co\/OUfyZsvDFs",
-      "expanded_url" : "https:\/\/youtu.be\/LXF1Rvc0XnM",
-      "display_url" : "youtu.be\/LXF1Rvc0XnM"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "635869871658500096",
-  "geo" : { },
-  "id_str" : "679345131447709696",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Beethoven - Piano Sonata No.30 in E major, Op.109 by Andr\u00E1s Schiff https:\/\/t.co\/OUfyZsvDFs",
-  "id" : 679345131447709696,
-  "in_reply_to_status_id" : 635869871658500096,
-  "created_at" : "2015-12-22 16:57:55 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
   "user" : {
@@ -4398,60 +4216,6 @@ Grailbird.data.tweets_2015_12 =
   "created_at" : "2015-12-22 15:08:19 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "679315659507953664",
-  "geo" : { },
-  "id_str" : "679315703921446912",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Daniel Barenboim, Pinchas Zukerman, and Jacqueline du Pr\u00E9",
-  "id" : 679315703921446912,
-  "in_reply_to_status_id" : 679315659507953664,
-  "created_at" : "2015-12-22 15:00:59 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 90 ],
-      "url" : "https:\/\/t.co\/2kM7ZdqEpn",
-      "expanded_url" : "https:\/\/youtu.be\/iwXljRJNN74?list=PLHbJf2zCdzRf8GvicuOZ9glwEKbANLEPL",
-      "display_url" : "youtu.be\/iwXljRJNN74?li\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "679315659507953664",
-  "text" : "Beethoven - Piano Trio in B-flat major \"Archduke\", Op.97 by (cont) https:\/\/t.co\/2kM7ZdqEpn",
-  "id" : 679315659507953664,
-  "created_at" : "2015-12-22 15:00:48 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -4805,38 +4569,6 @@ Grailbird.data.tweets_2015_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 90, 113 ],
-      "url" : "https:\/\/t.co\/az6l6jwbQA",
-      "expanded_url" : "https:\/\/youtu.be\/wSumsdfyiv8?t=54s",
-      "display_url" : "youtu.be\/wSumsdfyiv8?t=\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "638816593300946944",
-  "geo" : { },
-  "id_str" : "679294664273358848",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Mussorgsky - Pictures at an Exhibition, orchestrated by Ravel, by BRSO and Mariss Jansons https:\/\/t.co\/az6l6jwbQA",
-  "id" : 679294664273358848,
-  "in_reply_to_status_id" : 638816593300946944,
-  "created_at" : "2015-12-22 13:37:23 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 63, 86 ],
       "url" : "https:\/\/t.co\/5PQJDql8tw",
       "expanded_url" : "http:\/\/youtu.be\/zpsfhTxo5yw",
@@ -4985,33 +4717,6 @@ Grailbird.data.tweets_2015_12 =
   },
   "id" : 678499374750568448,
   "created_at" : "2015-12-20 08:57:11 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "677354941313384449",
-  "geo" : { },
-  "id_str" : "677355683537375233",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "\uBCA0\uD1A0\uBCA4 \uD0C4\uC0DD 245\uC8FC\uB144\uC785\uB2C8\uB2E4.",
-  "id" : 677355683537375233,
-  "in_reply_to_status_id" : 677354941313384449,
-  "created_at" : "2015-12-17 05:12:34 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
