@@ -438,33 +438,6 @@ Grailbird.data.tweets_2016_02 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 71, 94 ],
-      "url" : "https:\/\/t.co\/5xdCvti5ME",
-      "expanded_url" : "https:\/\/youtu.be\/T1-YYl8LGJw",
-      "display_url" : "youtu.be\/T1-YYl8LGJw"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "694558419475263488",
-  "text" : "Vaughan Williams - Symphony No.5 in D major by LSO and Bernard Haitink https:\/\/t.co\/5xdCvti5ME",
-  "id" : 694558419475263488,
-  "created_at" : "2016-02-02 16:30:06 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 43, 66 ],
       "url" : "https:\/\/t.co\/ENZycpE0xH",
       "expanded_url" : "https:\/\/youtu.be\/r58eQnqjzxY",
