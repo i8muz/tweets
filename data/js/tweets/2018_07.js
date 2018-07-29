@@ -1,6 +1,1116 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 29 10:30:00 +0000 2018",
+		"id": 1023515980679532500,
+		"id_str": "1023515980679532544",
+		"text": "Bach - English Suite No.5 in E minor, BWV 810 by Anatoly Vedernikov https://t.co/0PV2Ju2mvE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0PV2Ju2mvE",
+					"expanded_url": "https://youtu.be/u4k8YeTeV0U",
+					"display_url": "youtu.be/u4k8YeTeV0U",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Jul 29 08:30:00 +0000 2018",
+		"id": 1023485781342601200,
+		"id_str": "1023485781342601216",
+		"text": "Brahms - Piano Sonata No.3 in F minor, Op.5 by Anatoly Vedernikov https://t.co/H9mxaj3gRw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H9mxaj3gRw",
+					"expanded_url": "https://youtu.be/DPswaLefOTI",
+					"display_url": "youtu.be/DPswaLefOTI",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 636085425111629800,
+		"in_reply_to_status_id_str": "636085425111629824",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sl"
+	},
+	{
+		"created_at": "Sun Jul 29 06:30:00 +0000 2018",
+		"id": 1023455581812666400,
+		"id_str": "1023455581812666373",
+		"text": "Scriabin - 24 Preludes, Op.11 by Anatoly Vedernikov https://t.co/7QE0Rjpit4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7QE0Rjpit4",
+					"expanded_url": "https://youtu.be/9-r1O6LE7ZM?list=PL98B9BEE579ED1D7B",
+					"display_url": "youtu.be/9-r1O6LE7ZM?li…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 648927998368845800,
+		"in_reply_to_status_id_str": "648927998368845831",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cs"
+	},
+	{
+		"created_at": "Sun Jul 29 04:30:00 +0000 2018",
+		"id": 1023425384149393400,
+		"id_str": "1023425384149393409",
+		"text": "Prokofiev - 10 Pieces, Op.12 by Anatoly Vedernikov https://t.co/s81zH7WYmi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s81zH7WYmi",
+					"expanded_url": "https://youtu.be/2aHgPZCNnYI",
+					"display_url": "youtu.be/2aHgPZCNnYI",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Jul 29 02:30:00 +0000 2018",
+		"id": 1023395184212631600,
+		"id_str": "1023395184212631552",
+		"text": "Debussy - 12 Études in C major, L.136 by Anatoly Vedernikov https://t.co/cubmqw7xgL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cubmqw7xgL",
+					"expanded_url": "https://youtu.be/cPrNw6uPg2Q",
+					"display_url": "youtu.be/cPrNw6uPg2Q",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 636093849727688700,
+		"in_reply_to_status_id_str": "636093849727688706",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ro"
+	},
+	{
+		"created_at": "Sun Jul 29 00:30:00 +0000 2018",
+		"id": 1023364986473656300,
+		"id_str": "1023364986473656320",
+		"text": "Bach - Partita No.6 in E minor, BWV 830 by Anatoly Vedernikov https://t.co/xWYvuzf7IT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWYvuzf7IT",
+					"expanded_url": "https://youtu.be/QV89FBujGIg",
+					"display_url": "youtu.be/QV89FBujGIg",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 652029674369908700,
+		"in_reply_to_status_id_str": "652029674369908736",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jul 28 22:30:00 +0000 2018",
+		"id": 1023334786163793900,
+		"id_str": "1023334786163793923",
+		"text": "Beethoven - Piano Sonata No.29 in B-flat major \"Hammerklavier\", Op.106 by Anatoly Vedernikov https://t.co/RPBOhC2Br8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RPBOhC2Br8",
+					"expanded_url": "https://youtu.be/zBsadRqHess",
+					"display_url": "youtu.be/zBsadRqHess",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 908004855695925200,
+		"in_reply_to_status_id_str": "908004855695925248",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "da"
+	},
+	{
+		"created_at": "Sat Jul 28 20:30:00 +0000 2018",
+		"id": 1023304586994413600,
+		"id_str": "1023304586994413569",
+		"text": "Schubert - Piano Sonata No.14 in A minor, Op.posth.143, D.784 by Anatoly Vedernikov https://t.co/6jGeZm6Mhe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6jGeZm6Mhe",
+					"expanded_url": "https://youtu.be/dhVDUDWknm4",
+					"display_url": "youtu.be/dhVDUDWknm4",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 679299783136120800,
+		"in_reply_to_status_id_str": "679299783136120833",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it"
+	},
+	{
+		"created_at": "Sat Jul 28 18:30:00 +0000 2018",
+		"id": 1023274388924162000,
+		"id_str": "1023274388924162048",
+		"text": "Beethoven - Piano Sonata No.32 in C minor, Op.111 by Anatoly Vedernikov https://t.co/mLWa1IfDUB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLWa1IfDUB",
+					"expanded_url": "https://youtu.be/0uH4hZTCrYQ",
+					"display_url": "youtu.be/0uH4hZTCrYQ",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 839875940188487700,
+		"in_reply_to_status_id_str": "839875940188487680",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sl"
+	},
+	{
+		"created_at": "Sat Jul 28 16:30:00 +0000 2018",
+		"id": 1023244191176912900,
+		"id_str": "1023244191176912896",
+		"text": "Bach - Partita No.2 in C minor, BWV 826 by Anatoly Vedernikov https://t.co/WioioawILE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WioioawILE",
+					"expanded_url": "https://youtu.be/fEnkmjEJ4go",
+					"display_url": "youtu.be/fEnkmjEJ4go",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 991716447909957600,
+		"in_reply_to_status_id_str": "991716447909957637",
+		"in_reply_to_user_id": 3328596200,
+		"in_reply_to_user_id_str": "3328596200",
+		"in_reply_to_screen_name": "i8muz",
+		"user": {
+			"id": 3328596200,
+			"id_str": "3328596200",
+			"name": "클래식 봇",
+			"screen_name": "i8muz",
+			"location": "",
+			"description": "그로밋이 유튜브의 클래식 음악을 소개합니다. 음악 목록은 여기( https://t.co/t1pjmGG25v )서 검색하시면 편해요🎵 잘린 링크 발견하시면 꼭 dm 주세요. 기타 자세한 정보는 아래 링크에서 확인해주세요.",
+			"url": "https://t.co/wsiIPDtlhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wsiIPDtlhI",
+							"expanded_url": "http://about.me/imuz",
+							"display_url": "about.me/imuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t1pjmGG25v",
+							"expanded_url": "https://goo.gl/o6Qv7a",
+							"display_url": "goo.gl/o6Qv7a",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Mon Aug 24 12:21:31 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635954938921619456/QIVhuEmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3328596200/1440419495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Jul 26 16:30:00 +0000 2018",
 		"id": 1022519415546540000,
 		"id_str": "1022519415546540034",
