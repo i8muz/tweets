@@ -755,33 +755,6 @@ Grailbird.data.tweets_2017_07 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/J4i1xFNl9p",
-      "expanded_url" : "https:\/\/youtu.be\/TYA5Jn6e4r4",
-      "display_url" : "youtu.be\/TYA5Jn6e4r4"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "886623971839324160",
-  "text" : "Delius - The Walk to the Paradise Garden, from A Village Romeo and Juliet by RPO and Yuri Simonov https:\/\/t.co\/J4i1xFNl9p",
-  "id" : 886623971839324160,
-  "created_at" : "2017-07-16 16:30:02 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 55, 78 ],
       "url" : "https:\/\/t.co\/z4bfxDyAan",
       "expanded_url" : "https:\/\/youtu.be\/EqkKk5FY3XU",
@@ -2054,33 +2027,6 @@ Grailbird.data.tweets_2017_07 =
   "created_at" : "2017-07-03 12:31:21 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 65, 88 ],
-      "url" : "https:\/\/t.co\/WpqqiEck6z",
-      "expanded_url" : "https:\/\/youtu.be\/Z6pquwsisEc",
-      "display_url" : "youtu.be\/Z6pquwsisEc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "881566235334279169",
-  "text" : "Delius - Summer Night on the River by RSNO and David Lloyd-Jones https:\/\/t.co\/WpqqiEck6z",
-  "id" : 881566235334279169,
-  "created_at" : "2017-07-02 17:32:23 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
