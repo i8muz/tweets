@@ -114,33 +114,6 @@ Grailbird.data.tweets_2015_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 75, 98 ],
-      "url" : "https:\/\/t.co\/lVRIuwLKu5",
-      "expanded_url" : "https:\/\/youtu.be\/hDXWK3W477w",
-      "display_url" : "youtu.be\/hDXWK3W477w"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "682096685795786752",
-  "text" : "Beethoven - Piano Concerto No.5 in E-flat major \"Emperor\", Op.73 by (cont) https:\/\/t.co\/lVRIuwLKu5",
-  "id" : 682096685795786752,
-  "created_at" : "2015-12-30 07:11:37 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 76, 99 ],
       "url" : "https:\/\/t.co\/yJ86cg6CAU",
       "expanded_url" : "https:\/\/youtu.be\/-WlOh7FD6pM",
@@ -787,38 +760,6 @@ Grailbird.data.tweets_2015_12 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 57, 80 ],
-      "url" : "https:\/\/t.co\/4ohJHq6TaZ",
-      "expanded_url" : "https:\/\/youtu.be\/1wb36-orBL0",
-      "display_url" : "youtu.be\/1wb36-orBL0"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "652029674369908736",
-  "geo" : { },
-  "id_str" : "680561676651896832",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Bach - Partita No.6 in E minor, BWV 830 by Andr\u00E1s Schiff https:\/\/t.co\/4ohJHq6TaZ",
-  "id" : 680561676651896832,
-  "in_reply_to_status_id" : 652029674369908736,
-  "created_at" : "2015-12-26 01:32:02 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 98, 121 ],
       "url" : "https:\/\/t.co\/7OelAEBm1R",
       "expanded_url" : "https:\/\/youtu.be\/WIjAGbyQO9M?t=4s",
@@ -830,33 +771,6 @@ Grailbird.data.tweets_2015_12 =
   "text" : "Mozart - Piano Concerto No.25 in C major, K.503 by \u5185\u7530\u5149\u5B50, Wiener Philharmoniker, and Riccardo Muti https:\/\/t.co\/7OelAEBm1R",
   "id" : 680544077083840514,
   "created_at" : "2015-12-26 00:22:06 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 92, 115 ],
-      "url" : "https:\/\/t.co\/0X8rHWTDXt",
-      "expanded_url" : "https:\/\/youtu.be\/JQM0CbEOlwI?t=1s",
-      "display_url" : "youtu.be\/JQM0CbEOlwI?t=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "680531478497738752",
-  "text" : "Mozart - Violin Sonata No.32 in B-flat major, K.454 by David Oistrakh and Paul Badura-Skoda https:\/\/t.co\/0X8rHWTDXt",
-  "id" : 680531478497738752,
-  "created_at" : "2015-12-25 23:32:02 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -4460,65 +4374,6 @@ Grailbird.data.tweets_2015_12 =
   "id" : 679297219393032193,
   "in_reply_to_status_id" : 635832046636564481,
   "created_at" : "2015-12-22 13:47:32 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "679295207993565184",
-  "geo" : { },
-  "id_str" : "679295253392715780",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Daniil Kharitonov, Tatarstan National Symphony Orchestra, and Alexander Sladkovsky",
-  "id" : 679295253392715780,
-  "in_reply_to_status_id" : 679295207993565184,
-  "created_at" : "2015-12-22 13:39:43 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 74, 97 ],
-      "url" : "https:\/\/t.co\/6Tmr0ZEoBd",
-      "expanded_url" : "https:\/\/youtu.be\/DdHzwtPDZn8",
-      "display_url" : "youtu.be\/DdHzwtPDZn8"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "679295139739602945",
-  "geo" : { },
-  "id_str" : "679295207993565184",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Tchaikovsky - Piano Concerto No.1 in B-flat minor, Op.23, TH.55 by (cont) https:\/\/t.co\/6Tmr0ZEoBd",
-  "id" : 679295207993565184,
-  "in_reply_to_status_id" : 679295139739602945,
-  "created_at" : "2015-12-22 13:39:32 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
   "user" : {

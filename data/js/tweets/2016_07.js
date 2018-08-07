@@ -146,33 +146,6 @@ Grailbird.data.tweets_2016_07 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 81, 104 ],
-      "url" : "https:\/\/t.co\/a6He1RBfmL",
-      "expanded_url" : "https:\/\/youtu.be\/SPtqRjirC6o",
-      "display_url" : "youtu.be\/SPtqRjirC6o"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "756164350084206593",
-  "text" : "Rimsky-Korsakov - Scheherazade, Op.35 by Wiener Philharmoniker and  Andr\u00E9 Previn https:\/\/t.co\/a6He1RBfmL",
-  "id" : 756164350084206593,
-  "created_at" : "2016-07-21 16:30:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 99, 122 ],
       "url" : "https:\/\/t.co\/hXEmf8z2A8",
       "expanded_url" : "https:\/\/youtu.be\/E5bU2gm1Tes",
@@ -454,33 +427,6 @@ Grailbird.data.tweets_2016_07 =
   "text" : "Respighi - Poema Autunnale, P 146 by Julia Fischer, Monte-Carlo Philharmonic Orchestra, Yakov Kreizberg https:\/\/t.co\/lm1PBfywQK",
   "id" : 751090921794445313,
   "created_at" : "2016-07-07 16:30:05 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 70, 93 ],
-      "url" : "https:\/\/t.co\/MBjyTJWw7N",
-      "expanded_url" : "https:\/\/youtu.be\/v4p1q0mNjoo",
-      "display_url" : "youtu.be\/v4p1q0mNjoo"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "750713444467224577",
-  "text" : "Louise Farrenc - Nonet in E-flat major, Op.38 by Cappella Coloniensis https:\/\/t.co\/MBjyTJWw7N",
-  "id" : 750713444467224577,
-  "created_at" : "2016-07-06 15:30:07 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",

@@ -732,33 +732,6 @@ Grailbird.data.tweets_2016_06 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 73, 96 ],
-      "url" : "https:\/\/t.co\/wahrAwGJL4",
-      "expanded_url" : "https:\/\/youtu.be\/hOpiAxga3Ts",
-      "display_url" : "youtu.be\/hOpiAxga3Ts"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "738769730970869760",
-  "text" : "Elgar - Piano Quintet in A minor, Op. 84 by Ian Brown and Sorrel Quartet https:\/\/t.co\/wahrAwGJL4",
-  "id" : 738769730970869760,
-  "created_at" : "2016-06-03 16:30:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "738165742583963649",

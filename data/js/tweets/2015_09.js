@@ -214,33 +214,6 @@ Grailbird.data.tweets_2015_09 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "648364027710537728",
-  "geo" : { },
-  "id_str" : "649037173627461633",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Die Ruinen von Athen",
-  "id" : 649037173627461633,
-  "in_reply_to_status_id" : 648364027710537728,
-  "created_at" : "2015-09-30 01:44:55 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 83, 106 ],
       "url" : "https:\/\/t.co\/Rbs3zzCPpR",
@@ -736,33 +709,6 @@ Grailbird.data.tweets_2015_09 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 117, 140 ],
-      "url" : "https:\/\/t.co\/29MYC4DEqn",
-      "expanded_url" : "https:\/\/youtu.be\/z9i5IimqXBA",
-      "display_url" : "youtu.be\/z9i5IimqXBA"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "648364027710537728",
-  "text" : "Beethoven - Marcia alla turca in B-flat major, transcripted by Anton Rubinstein, from (cont), Op.113 by Lazar Berman https:\/\/t.co\/29MYC4DEqn",
-  "id" : 648364027710537728,
-  "created_at" : "2015-09-28 05:10:04 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
       "indices" : [ 114, 137 ],
       "url" : "https:\/\/t.co\/bKrn5ZayrS",
       "expanded_url" : "https:\/\/youtu.be\/yra9U2nqaAQ",
@@ -806,33 +752,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Bach - Sinfonia No.12 in A major, BWV 798 by Glenn Gould https:\/\/t.co\/SEK7yOUuQu",
   "id" : 648099775284273152,
   "created_at" : "2015-09-27 11:40:02 +0000",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 90 ],
-      "url" : "https:\/\/t.co\/e4VNxF2YZj",
-      "expanded_url" : "https:\/\/youtu.be\/RR7eUSFsn28",
-      "display_url" : "youtu.be\/RR7eUSFsn28"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "648081149688807424",
-  "text" : "Chopin - Ballade No.1 in G minor, Op.23, B.66 by Krystian Zimerman https:\/\/t.co\/e4VNxF2YZj",
-  "id" : 648081149688807424,
-  "created_at" : "2015-09-27 10:26:01 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
@@ -4259,60 +4178,6 @@ Grailbird.data.tweets_2015_09 =
   "created_at" : "2015-09-17 05:40:56 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "644382990487826432",
-  "geo" : { },
-  "id_str" : "644383003649552384",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Christian Ferras, Berliner Philharmoniker, and Herbert von Karajan",
-  "id" : 644383003649552384,
-  "in_reply_to_status_id" : 644382990487826432,
-  "created_at" : "2015-09-17 05:30:54 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 65, 88 ],
-      "url" : "https:\/\/t.co\/7ZVTniAVSy",
-      "expanded_url" : "https:\/\/youtu.be\/Z6d1tlVfzXQ",
-      "display_url" : "youtu.be\/Z6d1tlVfzXQ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "644382990487826432",
-  "text" : "Tchaikovsky - Violin Concerto in D major, Op.35, TH.59 by (cont) https:\/\/t.co\/7ZVTniAVSy",
-  "id" : 644382990487826432,
-  "created_at" : "2015-09-17 05:30:51 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
