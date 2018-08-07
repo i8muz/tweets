@@ -221,38 +221,6 @@ Grailbird.data.tweets_2017_06 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 60, 83 ],
-      "url" : "https:\/\/t.co\/boXauwELkV",
-      "expanded_url" : "https:\/\/youtu.be\/3u7NO0HsbQ4",
-      "display_url" : "youtu.be\/3u7NO0HsbQ4"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "636188751161483264",
-  "geo" : { },
-  "id_str" : "879002145810337793",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Mozart - Piano Sonata No.10 in C major, K.330 by Lili Kraus https:\/\/t.co\/boXauwELkV 1968, \uC7AC\uC5C5",
-  "id" : 879002145810337793,
-  "in_reply_to_status_id" : 636188751161483264,
-  "created_at" : "2017-06-25 15:43:37 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "878998724835291141",
@@ -614,33 +582,6 @@ Grailbird.data.tweets_2017_06 =
   "created_at" : "2017-06-22 16:13:08 +0000",
   "in_reply_to_screen_name" : "i8muz",
   "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 114, 137 ],
-      "url" : "https:\/\/t.co\/YF8cZfXl9Q",
-      "expanded_url" : "https:\/\/youtu.be\/DHjlspwLR_I",
-      "display_url" : "youtu.be\/DHjlspwLR_I"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "877921769562054656",
-  "text" : "Saint-Sa\u00EBns - Le carnaval des animaux, R.125 by B\u00E9la S\u00EDki, G\u00E9za Anda, Philharmonia Orchestra, and Igor Markevitch https:\/\/t.co\/YF8cZfXl9Q \uC7AC\uC5C5",
-  "id" : 877921769562054656,
-  "created_at" : "2017-06-22 16:10:35 +0000",
   "user" : {
     "name" : "\uD074\uB798\uC2DD \uBD07",
     "screen_name" : "i8muz",
