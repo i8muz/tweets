@@ -59,65 +59,6 @@ Grailbird.data.tweets_2016_08 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "770176610301378560",
-  "geo" : { },
-  "id_str" : "770176656916918272",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "David Oistrakh, Staatskapelle Berlin, and Gennady Rozhdestvensky",
-  "id" : 770176656916918272,
-  "in_reply_to_status_id" : 770176610301378560,
-  "created_at" : "2016-08-29 08:29:58 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 65, 88 ],
-      "url" : "https:\/\/t.co\/4Ge1ifxWZH",
-      "expanded_url" : "https:\/\/youtu.be\/Ds4XPlhgq_k?t=1m1s",
-      "display_url" : "youtu.be\/Ds4XPlhgq_k?t=\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "644383003649552384",
-  "geo" : { },
-  "id_str" : "770176610301378560",
-  "in_reply_to_user_id" : 3328596200,
-  "text" : "Tchaikovsky - Violin Concerto in D major, Op.35, TH.59 by (cont) https:\/\/t.co\/4Ge1ifxWZH",
-  "id" : 770176610301378560,
-  "in_reply_to_status_id" : 644383003649552384,
-  "created_at" : "2016-08-29 08:29:47 +0000",
-  "in_reply_to_screen_name" : "i8muz",
-  "in_reply_to_user_id_str" : "3328596200",
-  "user" : {
-    "name" : "\uD074\uB798\uC2DD \uBD07",
-    "screen_name" : "i8muz",
-    "protected" : false,
-    "id_str" : "3328596200",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635954938921619456\/QIVhuEmD_normal.jpg",
-    "id" : 3328596200,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 87, 110 ],
       "url" : "https:\/\/t.co\/b6csSwCIY8",
